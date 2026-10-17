@@ -1,4 +1,5 @@
 #include "GATE.h"
+#include <iostream>
 
 bool s_switch(bool s)
 {
@@ -39,4 +40,9 @@ bool XNOR_GATE(bool a, bool b)
 {
     if (a != b) return 0;
     else return 1;
+}
+
+void ntronghungg222_aot()
+{
+    std::cout << "Fuck You!"; 
 }
