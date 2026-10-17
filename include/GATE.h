@@ -8,3 +8,4 @@ bool NAND_GATE(bool a, bool b);
 bool NOR_GATE(bool a, bool b);
 bool XOR_GATE(bool a, bool b);
 bool XNOR_GATE(bool a, bool b);
+void ntronghungg222_aot();
