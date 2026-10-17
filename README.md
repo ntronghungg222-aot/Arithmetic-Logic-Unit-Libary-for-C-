@@ -40,7 +40,7 @@ int main() {
 7. bool XOR_GATE(bool a, bool b);
 8. bool XNOR_GATE(bool a, bool b);
 
-**Try using the `ntronghungg222_aot()` function; it will be great.**
+**Try using the `ntronghungg222_aot()` function; it will be great!**
 
 # New library revealed
 
