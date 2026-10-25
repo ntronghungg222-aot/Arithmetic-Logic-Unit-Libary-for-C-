@@ -1,5 +1,4 @@
 #include "GATE.h"
-#include <iostream>
 
 bool s_switch(bool s)
 {
