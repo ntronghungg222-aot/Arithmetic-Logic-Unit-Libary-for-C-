@@ -7,10 +7,7 @@ This is a C++ library for Arithmetic Logic Units. The library is intended for st
 
 **Step 2**: Extract the files.
 
-**Step 3**: Navigate to the `include` folder within the extracted files and copy the three files located there.
-
-**Step 4**: Paste the three copied files into the folder containing the project where you intend to use the library.
-
+**Step 3**: Copy files in include folder to project folder.
 
 **Note: Since this is not an official library, you must include it using double quotes. As this is a C++ library, it cannot be used with other programming languages.**
 
